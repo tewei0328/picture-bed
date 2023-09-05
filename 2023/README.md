@@ -1,1 +1,1 @@
-test
+picture-bed for obsidian
